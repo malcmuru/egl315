@@ -16,6 +16,10 @@ I am at at NYP
 Blk S 
 ```
 
+### Code Line
+`sudo rasp pi config`
+
+
 
 
 
